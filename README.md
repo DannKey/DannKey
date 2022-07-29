@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DannKey
 - 👀 I’m interested in Javascript front and back ends. 
-- 🌱 I’m currently learning Javascript (SoftUni student) 
+- 🌱 I’m currently learning Javascript (SoftUni student) and MySQL Databases
 - 💞️ I’m looking to collaborate on any beginners projects and anything Javascript connected that i can help with or learn from.
 - 📫 How to reach me: yoritoy2@gmail.com
 
